@@ -2,6 +2,8 @@
 
 [![Visit UnblurImage.org](https://img.shields.io/badge/Try%20It-UnblurImage.org-blue)](https://unblurimage.org/)
 
+Official website: https://unblurimage.org/
+
 Transform your blurry photos into crystal-clear images with our cutting-edge AI-powered unblur tool. No registration required, completely free to use!
 
 ## 🌟 Key Features
@@ -70,7 +72,7 @@ Free for both personal and commercial use. You retain all rights to your enhance
 
 ## 🤝 Support
 
-For questions and support, please visit [our website](https://unblurimage.org/).
+For questions and support, please visit [Unblur Image](https://unblurimage.org/).
 
 ---
 
